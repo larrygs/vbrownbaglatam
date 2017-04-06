@@ -1,7 +1,7 @@
 ---
 ### vBrownBag
 ## Comunidad Global
-![Logo](http://spark.apache.org/images/spark-logo-trademark.png)
+![Logo](https://github.com/kylemurley/vbrownbaglatam/blob/master/VBB_logo_landsc_transp565x209px.png?raw=true)
 
 ---
 ### SLIDE 2 Title
