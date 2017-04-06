@@ -2,8 +2,7 @@
 ![Logo](https://github.com/kylemurley/vbrownbaglatam/blob/master/VBB_logo_landsc_transp565x209px.png?raw=true)
 ### vBrownBag LatAm
 
----
- **
+
 ---
 ### Comunidad Global 
 #### de entusiastas en tecnología en virtualización
@@ -22,4 +21,11 @@
 #### Conéctase 
    - Dale like en <BR></BR><a href="http://facebook.com/vbrownbag" target="_blank">facebook.com/vbrownbag</a> <BR></BR>
    - Chat en <BR></BR><a href="https://vbrownbaglatam.slack.com/" target="_blank">vBrownBagLatAm.slack.com
+---
+#### 2017-04-06-vbrownbag-latam
+### Operación de Openstack y experiencia en @KIOnetworks 
+   - Maximiliano Lara
+   - Freddy Salas @fsalas0712 
+   - Alvaro Soto @alsotoes 
+   - Joaquin Calvo @Jo0ak11n
 ---
