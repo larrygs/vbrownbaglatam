@@ -12,7 +12,7 @@
 ---
 
 ### Slide 3 TITLE
-   - Lea el blog en: <a href="http://vbrownbag.com" target="_blank">vBrownBag.com</a> 
-   - Síganos en Twitter: <a href="https://Twitter.com/vBrownBagLatAm" target="_blank">@vBrownBagLatAm</a> y <a href="https://twitter.com/search?q=%23vBrownBag" target="_blank">#vBrownBag</a>
-   - Vea los videos en YouTube.com/<a href="https://Youtube.com/user/vBrownBagLatAm" target="_blank">user/vBrownBagLatAm</a>
+   - Lea el blog en: <a href="http://vbrownbag.com" target="_blank">vBrownBag.com</a> <BR></BR>
+   - Síganos en Twitter: <a href="https://Twitter.com/vBrownBagLatAm" target="_blank">@vBrownBagLatAm</a> y <a href="https://twitter.com/search?q=%23vBrownBag" target="_blank">#vBrownBag</a>  <BR></BR>
+   - Vea los videos en YouTube.com/<a href="https://Youtube.com/user/vBrownBagLatAm" target="_blank">user/vBrownBagLatAm</a> <BR></BR>
 ---
