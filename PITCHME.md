@@ -3,7 +3,7 @@
 
 ### vBrownBag
 ### Comunidad Global
-![Logo](vbrownbaglatam/VBB_logo_landsc_transp565x209px.png)
+![Logo](vbrownbaglatam/master/VBB_logo_landsc_transp565x209px.png)
 
 
 #HSLIDE
