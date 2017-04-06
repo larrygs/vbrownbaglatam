@@ -1,3 +1,5 @@
+---?image=https://github.com/kylemurley/vbrownbaglatam/blob/master/VBB_logo_landsc_transp565x209px.png?raw=true
+
 ---
 ![Logo](https://github.com/kylemurley/vbrownbaglatam/blob/master/VBB_logo_landsc_transp565x209px.png?raw=true)
 ### vBrownBag LatAm
