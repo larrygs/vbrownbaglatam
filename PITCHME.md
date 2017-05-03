@@ -6,7 +6,7 @@
 
 ---
 ### Comunidad Global 
-#### de entusiastas en tecnología en virtualización
+#### Bienvenido a #vBrownBag LATAM en Español - una comunidad de entusiastas en tecnología de virtualización 
 
    - América Latina - cada jueves @7pm (PDT)
    - Estados Unidos - cada miércoles @7:30 (CST)
@@ -23,3 +23,24 @@
    - Dale like en <BR></BR><a href="http://facebook.com/vbrownbag" target="_blank">facebook.com/vbrownbag</a> <BR></BR>
    - Chat en <BR></BR><a href="https://vbrownbaglatam.slack.com/" target="_blank">vBrownBagLatAm.slack.com
 ---
+
+
+<!>
+vBrownBag.com en español es una expansión de la plataforma global para el crecimiento profesional y contribución a la comunidad en tecnologías de virtualización de habla hispana en América Latina y alrededor del mundo. 
+Estamos en Twitter @vBrownBagLatAm y #vBrownbag 
+https://vbrownbaglatam.slack.com
+
+Desde que se anunció el lanzamiento de los vBrownBag venimos grabando las presentaciones.
+Para facilitar el acceso al contenido hemos decidido hacerlo disponible por un canal de YouTube http://www.youtube.com/user/vBrownbagLATAM 
+
+Para no perder el webinar en vivo cada semana le invitamos a inscribirse como participante https://attendee.gotowebinar.com/register/2023175443436797954
+
+Seguimos reclutando presentadores 
+
+Los temas están por determinarse y serán representativos de la necesidad y capacidad de los participantes.
+
+Se puede anotar como presentador en: http://bit.ly/BrownbagPresenter
+
+¡Anímese a compartir y aprender juntos con los miembros de esta, nuestra comunidad vBrownbag en español!
+
+<!>
