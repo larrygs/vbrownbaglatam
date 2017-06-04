@@ -22,10 +22,8 @@
    - Dale like en <BR></BR><a href="http://facebook.com/vbrownbag" target="_blank">facebook.com/vbrownbag</a> <BR></BR>
    - Chat en <BR></BR><a href="https://vbrownbaglatam.slack.com/" target="_blank">vBrownBagLatAm.slack.com
 ---
-#### 2017-04-06-vbrownbag-latam
-### Operación de Openstack y experiencia en @KIOnetworks 
-   - Maximiliano Lara
-   - Freddy Salas @fsalas0712 
-   - Alvaro Soto @alsotoes 
-   - Joaquin Calvo @Jo0ak11n
+#### 2017-06-08-vbrownbag-latam
+###  Soberanía de Datos y Soluciones de Nube - parte 1 
+   - Alvaro Soto @alsotoes
+   
 ---
