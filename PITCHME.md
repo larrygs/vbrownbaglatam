@@ -12,7 +12,7 @@
    - Europa  -  cada martes @7pm (GMT)
    - Asia Pacífico  - cada jueves @9pm (NZDT)
 ---
-#### Conéctase 
+#### Conectese 
    - Lea el blog en:<BR></BR> <a href="http://vbrownbag.com" target="_blank">vBrownBag.com</a> <BR></BR>
    - Síganos en Twitter:<BR></BR> <a href="https://Twitter.com/vBrownBagLatAm" target="_blank">@vBrownBagLatAm</a> y <a href="https://twitter.com/search?q=%23vBrownBag" target="_blank">#vBrownBag</a>  <BR></BR>
    - Vea los videos en <BR></BR><a href="https://Youtube.com/user/vBrownBagLatAm" target="_blank">YouTube.com/user/vBrownBagLatAm</a> <BR></BR>
