@@ -22,7 +22,7 @@
    - Dale like en <BR></BR><a href="http://facebook.com/vbrownbag" target="_blank">facebook.com/vbrownbag</a> <BR></BR>
    - Chat en <BR></BR><a href="https://vbrownbaglatam.slack.com/" target="_blank">vBrownBagLatAm.slack.com
 ---
-#### 2017-08-10-vbrownbag-latam
-###  Carlos Castellanos "automation, desired state, en software" @XLinkTech Turbonomics
+####  2017-08-10-vbrownbag-latam
+###   Carlos Castellanos "automation, desired state, en software" @XLinkTech Turbonomics
    
 ---
